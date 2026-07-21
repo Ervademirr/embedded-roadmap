@@ -70,7 +70,7 @@ Coming Soon...
 
 ## Progress
 
-- Repository Created ✅
-- Git Configured ✅
-- GitHub Connected ✅
-- Learning Started 🚀
+- Repository Created 
+- Git Configured 
+- GitHub Connected 
+- Learning Started 
